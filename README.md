@@ -30,7 +30,7 @@ A mostly batteries included starter kit for a personal blog deployed to GitHub P
 ## Installation
 
 ```sh
-npx degit adamelliotfields/astro-template your-project
+npx degit 0xfieldsy/astro-template your-project
 cd your-project
 npm install
 npm start
