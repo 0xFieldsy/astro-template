@@ -44,4 +44,4 @@ See [creating a GitHub Pages site](https://docs.github.com/en/pages/getting-star
 
 ## Demo
 
-[aef.me/astro-template](https://aef.me/astro-template)
+[0xfieldsy.github.io/astro-template](https://0xfieldsy.github.io/astro-template)
